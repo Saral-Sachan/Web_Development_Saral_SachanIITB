@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+body{
+    text-align: center;
+    background-color: #548687;
+}
+.container{
+    height: 70vh;
+    width:70 vh;
+    margin-top: 50px;
+    
+.row1, .row2, .row3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
+.btn{
+    height:20vh;
+    width: 20vh;
+    font-size: 8vmin;
+    border-radius: 30px;
+    background-color: beige;
+    outline: none;
+    border-color: black;
+}
+.btn:hover{
+    background-color: rgb(183, 183, 165);
+}
+.resetbtn{
+    background-color: grey;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.resetbtn:hover{
+    background-color: rgb(97, 97, 97);
+}
+.winner{
+    color: purple;
+}
+.hide{
+    visibility:hidden;
+}
