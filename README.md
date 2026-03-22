@@ -1,2 +1,3 @@
 This is a beginner project created by me. I have used HTML and CSS to create a clone of Amazon.com's Frontend design. I have explicity designed the code in a structured way to have an easy access to any component of the web page.
 I have also created a mini Tic-Tac-Toe game, which has a user friendly interface and uses JavaScript for logic processing. I have used HTML,CSS and JavaScript to build this game from scratch.
+Created a currency-convertor website, which converts any valid currency to any desired valid currrency. I have used API fetching using JavaScript to perform the logic and math behind conversion. I used HTML and CSS for styling the webpage.
