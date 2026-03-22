@@ -1,0 +1,1 @@
+This is a beginner project created by me. I have used HTML and CSS to create a clone of Amazon.com's Frontend design. I have explicity designed the code in a structured way to have an easy access to any component of the web page.
