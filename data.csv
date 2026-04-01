@@ -1,0 +1,201 @@
+Video_Title,Video_Description,Upload_Date,Duration_Minutes,View_Count,Like_Count,Comment_Count,Channel_Subscriber_Count,Actual_Quality_Score
+"Learn Machine Learning in 5 MINUTES!","The ultimate guide to becoming an ML engineer overnight!",2023-04-12,8,950000,4200,18000,120000,15
+"A Deep Dive into React useEffect","Comprehensive explanation of component lifecycle and hooks",2022-08-21,45,68000,5100,320,85000,88
+"Build a To-Do App in JavaScript","Simple beginner project using vanilla JS DOM manipulation",2021-11-05,22,145000,3100,240,42000,62
+"BECOME A WEB DEV MILLIONAIRE!!!","Secret methods they do not want you to know about coding",2023-09-01,9,2100000,8500,45000,500000,8
+"Advanced Docker Networking Concepts","Exploring bridge host and overlay networks in Docker",2020-05-18,55,24000,1950,95,35000,95
+"Python For Beginners 2023","Starting your journey with Python programming language",2023-01-10,35,450000,12000,800,210000,68
+"Master CSS Grid in 2 Minutes!","Unbelievable CSS trick that will change your life!",2022-12-11,3,680000,1500,50,75000,22
+"Introduction to Rust Memory Safety","Understanding ownership and borrowing in the Rust language",2021-07-30,62,41000,3800,215,62000,91
+"HTML Basics Tutorial","Learning the fundamental tags of HTML web development",2020-03-22,18,320000,5400,410,150000,54
+"ChatGPT writes my ENTIRE app!","Watch me build a SAAS with zero coding knowledge",2023-11-20,12,1850000,9200,21000,850000,25
+"Implementing Binary Search Trees in C++","A step-by-step guide to coding and traversing a BST",2020-09-14,48,18000,1600,88,28000,89
+"Java Arrays Explained","How to declare and iterate over arrays in Java",2021-02-18,15,85000,1900,140,55000,60
+"Make $1000 a day with this Python script!","Passive income secrets using basic web scraping",2022-06-05,10,3400000,12000,55000,1200000,18
+"Understanding the Event Loop in Node.js","Deep dive into asynchronous JavaScript execution",2021-10-25,38,52000,4800,260,95000,94
+"PHP tutorial for beginners","Setting up a local server and writing basic PHP code",2020-11-08,25,110000,2800,190,48000,58
+"Learn C++ FAST!","The only video you need to master C++ instantly",2023-02-15,11,890000,3100,12000,310000,28
+"Kubernetes Architecture Overview","Detailed explanation of pods nodes and control plane",2022-04-19,65,38000,3400,155,78000,96
+"CSS Flexbox Crash Course","Aligning items perfectly using the flexible box model",2021-08-04,28,210000,6500,380,180000,72
+"STOP using React! Do this instead!","Why React is dead and what framework will replace it",2023-10-02,14,1250000,8400,32000,450000,31
+"Building REST APIs with Go","Creating scalable backend services using the Go standard library",2020-12-12,52,29000,2600,125,42000,87
+"SQL Joins Tutorial","Understanding inner outer left and right joins",2021-05-29,20,175000,4100,250,92000,65
+"Hacking Wi-Fi in 60 Seconds!","The tool hackers use to access your network instantly",2022-09-18,7,2100000,5000,42000,680000,14
+"Introduction to System Design","Key concepts for designing scalable distributed systems",2021-03-08,85,95000,8800,410,210000,98
+"Git and GitHub for Beginners","Version control basics pushing pulling and committing",2020-07-14,35,450000,11000,750,340000,70
+"Get a Google SWE Job TOMORROW!","Guaranteed interview tricks that tech companies hate",2023-08-25,12,1450000,4800,28000,520000,21
+"Understanding Microservices vs Monoliths","Architectural trade-offs when scaling enterprise applications",2022-01-22,46,55000,4500,230,110000,86
+"Swift UI layout basics","Building iOS interfaces with Apple declarative framework",2021-11-30,24,68000,1800,110,45000,61
+"Learn Python in 1 MINUTE!","Shortest coding tutorial ever made on YouTube!",2022-03-17,2,850000,1200,45,150000,12
+"Demystifying the TypeScript Compiler","How tsc parses checks and emits JavaScript code",2023-05-28,58,22000,2100,95,38000,92
+"Bootstrap 5 Crash Course","Responsive design basics using the Bootstrap framework",2020-10-10,42,125000,3200,210,85000,56
+"Earn $500/hr coding THIS secret language!","No experience required for this insane remote job",2023-12-05,15,980000,3500,15000,290000,26
+"Memory Management in C","Malloc calloc free and preventing memory leaks",2021-04-03,50,31000,2800,160,52000,90
+"Vue.js Composition API Tutorial","Managing state and logic in modern Vue applications",2022-07-15,32,75000,2200,135,68000,69
+"Become a Hacker overnight!","The dark web secrets they are hiding from you",2021-09-09,8,1650000,4100,35000,420000,17
+"An Introduction to WebGL","Rendering 3D graphics in the browser using JavaScript",2020-02-28,65,15000,1400,65,22000,85
+"Sass Tutorial for Beginners","Writing cleaner CSS with variables and mixins",2021-06-21,26,92000,2500,140,71000,63
+"Learn React in 3 MINUTES!!!","The absolute fastest way to become a frontend master",2023-03-12,5,720000,1800,11000,190000,23
+"Designing RESTful APIs","Best practices for HTTP methods status codes and routing",2022-10-05,44,48000,4200,195,85000,93
+"MongoDB Crash Course","NoSQL database basics documents collections and queries",2020-08-11,40,165000,4500,290,140000,66
+"AI will STEAL your coding job!","Why learning to code in 2024 is completely useless",2023-11-01,13,2450000,7500,52000,950000,19
+"Understanding Big O Notation","Time and space complexity analysis for algorithms",2021-01-29,36,88000,8100,340,125000,95
+"Firebase Authentication Setup","Adding login and signup to your web application",2022-05-14,22,64000,1900,115,58000,60
+"Make a flappy bird clone in 5 minutes!","Game dev made incredibly easy without typing code",2021-12-03,6,540000,1600,8500,110000,29
+"Linux Command Line Basics","Navigating the filesystem and essential bash commands",2020-04-16,34,220000,5900,310,165000,74
+"Introduction to GraphQL","Solving REST API over-fetching with graph queries",2022-08-09,41,52000,4600,185,92000,88
+"The end of programming is here!!!","Watch this before you ever write another line of code",2023-06-20,11,1890000,5200,41000,760000,15
+"Building a CI/CD Pipeline with GitHub Actions","Automating your testing and deployment workflows",2021-09-27,54,34000,3100,145,61000,91
+"Responsive Web Design Principles","Using media queries and relative units for mobile layout",2020-11-25,28,145000,3800,220,115000,67
+"Code a completely fake virus!","Prank your friends with this simple batch script",2022-02-14,4,850000,2100,150,140000,33
+"Understanding JavaScript Closures","Lexical scoping and function environments explained",2021-07-08,30,41000,3800,175,82000,94
+"Learn SQL in 3 MINUTES!","Become a database expert instantly with this one simple trick",2023-01-15,3,1200000,2100,45000,300000,14
+"Advanced SQL Window Functions Explained","Deep dive into analytical functions with real world data examples",2021-08-22,45,55000,5200,210,85000,92
+"PHP vs Node.js in 2023","Comparing backend technologies for modern web development",2023-02-10,18,150000,3200,450,120000,65
+"ChatGPT builds the NEXT FACEBOOK!","Insane AI coding demonstration that will blow your mind",2023-11-05,10,2500000,4100,60000,800000,20
+"Building a Custom React Hook for Fetching Data","Step by step guide to creating reusable data fetching logic",2022-04-18,32,42000,3800,150,60000,89
+"Java OOP Concepts Tutorial","Understanding classes objects inheritance and polymorphism",2020-09-30,25,210000,4500,320,180000,71
+"Make $500k a year as a self-taught coder!","The secret path to tech riches that bootcamps hide from you",2022-12-01,15,1800000,3500,38000,450000,11
+"Introduction to WebAssembly with Rust","Compiling Rust code to run safely inside the browser",2021-03-14,55,38000,3400,180,52000,95
+"SvelteKit Crash Course","Building fullstack applications using the Svelte framework",2022-10-25,40,110000,2800,190,95000,68
+"HTML is a programming language! PROOF!","Debunking the biggest tech myth with absolute undeniable proof",2021-05-09,8,950000,1500,85000,210000,25
+"Understanding CORS and Preflight Requests","Solving the most common and frustrating frontend error",2020-11-20,28,75000,6500,240,110000,94
+"Next.js App Router Tutorial","Migrating your application from pages to the new app directory",2023-07-12,45,135000,3500,280,140000,73
+"The BEST coding language for 2024 (NOT Python!)","You will be absolutely shocked by the number one choice",2023-12-28,12,1400000,5200,31000,550000,22
+"Implementing OAuth 2.0 in Express.js","Secure authentication workflows using external providers",2021-02-05,52,48000,4100,175,75000,91
+"Tailwind CSS for Beginners","Utility first styling framework fundamentals and setup",2022-06-18,35,280000,6100,410,220000,64
+"Code a AAA Game in ONE HOUR!","Zero to hero game development masterclass for complete beginners",2023-04-02,60,3100000,8200,95000,1100000,18
+"A Guide to Dynamic Programming","Solving complex algorithmic problems using memoization and tabulation",2020-10-14,75,85000,8200,310,145000,96
+"Ruby on Rails Blog Tutorial","Creating a basic CRUD application from scratch",2021-01-22,48,95000,2400,180,88000,59
+"I hacked the PENTAGON with HTML!","Watch me infiltrate secure servers using only a web browser",2022-11-11,9,4200000,15000,120000,1500000,8
+"Mastering the JavaScript Reduce Method","Advanced array manipulation techniques and use cases",2021-05-03,22,62000,5800,210,92000,93
+"C# Unity Movement Script","How to move a player character in 3D space",2020-08-30,15,145000,3200,250,115000,62
+"Do NOT learn Javascript in 2023!","The shocking truth about the future of web development",2023-01-05,14,1650000,4800,54000,480000,24
+"Understanding JWT Authentication","JSON Web Tokens explained for secure stateless sessions",2022-03-27,38,92000,8500,340,130000,95
+"Django Models and Migrations","Defining database schemas using Python classes",2021-09-16,33,115000,3100,220,95000,67
+"Build a Netflix Clone in 10 MINUTES!","Impress recruiters instantly with this massive project",2022-07-08,10,1100000,2900,21000,340000,19
+"Docker Compose for Local Development","Orchestrating multi-container applications easily",2020-12-04,42,58000,4900,185,82000,88
+"Introduction to Pandas for Data Analysis","Data manipulation and cleaning in Python",2021-06-11,50,320000,7500,450,260000,70
+"Why I QUIT my $800k Google Job!","The toxic truth about FAANG companies they hide from you",2023-09-19,16,2800000,18000,85000,920000,13
+"Graph Algorithms: Dijkstra Shortest Path","Step by step visualization and code implementation",2021-11-28,45,41000,3900,160,65000,94
+"CSS Grid vs Flexbox","When to use which layout system for your website",2020-05-25,24,195000,5100,380,155000,69
+"Become a SENIOR Developer in 30 DAYS!","Fast track your career with this secret learning method",2023-08-14,12,850000,1900,14000,210000,27
+"Testing React Components with Jest","Writing reliable unit tests for your frontend application",2022-02-19,55,36000,3400,145,72000,89
+"Learn Kotlin for Android","Building your first mobile application from scratch",2021-04-07,65,185000,4200,310,140000,63
+"Coding a virus that destroys my PC!","Do not try this dangerous python script at home",2022-10-31,8,3100000,11000,65000,880000,16
+"Understanding React Server Components","The future of rendering in Next.js applications",2023-06-22,48,85000,7800,290,125000,95
+"Bash Scripting Automation","Writing shell scripts to automate daily development tasks",2020-07-03,35,110000,3500,210,95000,74
+"This ONE language will make you RICH!","Drop everything and learn this obscure framework today",2023-03-29,11,1450000,3800,29000,410000,21
+"Asynchronous Python with Asyncio","Managing concurrent operations efficiently",2022-09-08,52,44000,4100,180,68000,91
+"Introduction to Arduino Programming","Controlling hardware components with C++ code",2021-08-15,28,250000,5500,420,190000,66
+"Hack any Instagram Account in 2 MINUTES!","The security flaw that Meta refuses to fix",2022-04-01,5,4500000,8500,145000,1200000,5
+"Designing a Scalable Chat Application","System design interview preparation and architecture",2021-12-18,75,95000,8900,350,155000,97
+"Git Rebase vs Merge","Understanding history rewriting in version control",2020-02-11,20,135000,4200,280,110000,72
+"Is Web Development DEAD?","Why AI is replacing frontend engineers right now",2023-10-15,14,2100000,7200,68000,750000,17
+"Building a GraphQL API with Apollo Server","Defining schemas and resolvers in Node.js",2022-01-09,58,31000,2900,135,55000,87
+"Introduction to Three.js","Creating 3D scenes and objects in the browser",2021-07-26,40,88000,2600,190,78000,65
+"Create the NEXT BITCOIN in 5 Minutes!","Deploying a smart contract cryptocurrency effortlessly",2022-05-30,7,1250000,2400,22000,320000,23
+"Understanding State Machines in UI","Using XState to manage complex component logic",2023-05-12,45,26000,2700,110,48000,92
+"Go vs Rust Performance Test","Benchmarking the fastest modern systems languages",2021-10-04,18,340000,8500,950,220000,75
+"Watch me code an OS from scratch!","Building a fully functional operating system in one sitting",2022-08-05,10,2900000,14000,85000,980000,26
+"Deploying to AWS Elastic Beanstalk","Hosting your Node.js application in the cloud",2020-06-28,32,75000,2100,165,65000,68
+"Watch me build Twitter in 3 MINUTES!","The fastest fullstack tutorial on the internet",2022-09-09,4,3200000,5000,85000,950000,10
+"Understanding the Node.js Event Loop","Deep dive into libuv and asynchronous execution",2021-03-22,55,48000,4500,195,82000,96
+"JavaScript Array Methods Explained","Map filter reduce and forEach examples",2020-10-05,22,210000,4900,260,150000,68
+"Python is DEAD in 2024!","Why you should stop learning Python immediately",2023-11-18,12,1450000,3200,41000,620000,18
+"Building a Real-Time Chat App with WebSockets","Implementing Socket.io with a Node backend",2022-04-30,48,85000,7800,310,125000,89
+"HTML5 Semantic Tags","Improving accessibility and SEO with proper markup",2021-01-12,18,120000,2800,145,95000,59
+"I made a game that steals your passwords!","Educational purposes only do not replicate",2022-12-05,9,2800000,12000,65000,880000,15
+"System Design Interview: URL Shortener","Architecting a scalable Bitly clone",2021-07-15,62,110000,9500,420,180000,97
+"CSS Transitions and Animations","Adding smooth UI effects to your web pages",2020-06-25,26,185000,4200,210,135000,65
+"Become a FAANG Engineer in 24 HOURS!","The ultimate cheat sheet to pass any technical interview",2023-08-08,15,950000,2100,22000,450000,22
+"Test-Driven Development in Go","Writing reliable software using the testing package",2022-02-14,50,38000,3600,140,75000,93
+"React Context API Tutorial","Managing global state without Redux",2021-09-02,32,160000,3800,250,140000,72
+"Coding a self-driving car in 10 lines of code!","Artificial intelligence made incredibly simple",2023-01-20,6,1750000,3800,35000,720000,14
+"Demystifying Git Internals","How Git stores objects trees and commits under the hood",2020-11-10,45,52000,4800,185,92000,95
+"Introduction to Web Scraping with BeautifulSoup","Extracting data from HTML documents using Python",2021-05-18,28,240000,5500,310,165000,66
+"This CSS trick is ILLEGAL!","Do not use this on production websites",2022-10-31,5,1100000,1900,18000,380000,25
+"Implementing OAuth2 with Spring Boot","Securing Java applications with external identity providers",2022-06-08,58,41000,3900,160,85000,90
+"Vue 3 Composition API Basics","Understanding ref reactive and setup function",2021-12-12,35,135000,3400,190,115000,70
+"I learned C++ in 5 minutes and got a job!","My insane journey into systems programming",2023-07-25,8,2100000,4500,42000,650000,19
+"Mastering PostgreSQL Indexes","Optimizing database queries with B-trees and Hash indexes",2021-02-28,42,68000,6200,240,110000,94
+"Bootstrap 5 Navbar Tutorial","Building responsive navigation menus easily",2020-09-15,16,195000,4100,220,145000,58
+"Is ChatGPT 4 destroying programming?","Why we are all going to lose our jobs next month",2023-04-05,11,3500000,9500,85000,1100000,11
+"Functional Programming in JavaScript","Understanding pure functions immutability and currying",2021-08-20,46,55000,5100,210,95000,92
+"Setting up a Django Project","Creating apps models and admin interface",2020-05-10,30,170000,3900,240,125000,64
+"Make $10k a month with this simple API!","Passive income strategy using rapidapi",2022-11-22,14,1850000,3200,29000,550000,21
+"Microservices Architecture Patterns","Exploring API gateways circuit breakers and service discovery",2022-03-12,65,95000,8800,380,160000,96
+"C# Arrays and Lists","Collections and data structures in dot net",2021-04-25,24,155000,3500,180,130000,62
+"The END of Linux!","Why Microsoft is buying Ubuntu and ruining everything",2023-10-09,12,1250000,2800,31000,480000,16
+"Building a Reverse Proxy in Go","Handling HTTP requests and routing logic from scratch",2021-10-30,52,34000,3200,130,72000,91
+"Intro to Next.js API Routes","Creating backend endpoints in your frontend framework",2022-01-18,28,145000,3700,210,120000,69
+"Hack the FBI in 30 SECONDS!","Secret command prompt tricks they tried to delete",2022-08-01,6,4100000,12000,95000,1300000,7
+"Designing a Data Warehouse","ETL processes dimensional modeling and star schemas",2020-12-05,70,82000,7800,320,145000,95
+"Sass Mixins and Functions","Writing reusable CSS code efficiently",2021-06-22,20,110000,2500,150,90000,61
+"Create a viral AI app in 2 minutes!","No code tool that prints money instantly",2023-12-15,9,2200000,4800,45000,750000,13
+"Memory Leaks in JavaScript","How to profile and fix memory issues using Chrome DevTools",2021-03-08,44,45000,4200,175,85000,90
+"Node.js File System Module","Reading and writing files asynchronously",2020-11-28,22,165000,3600,190,135000,63
+"Web3 is a MASSIVE SCAM!","Exposing the truth behind blockchain development",2022-05-14,16,2900000,15000,82000,920000,28
+"Introduction to Kubernetes Helm Charts","Managing complex application deployments dynamically",2022-09-25,55,38000,3500,145,78000,93
+"React Router V6 Tutorial","Navigating between pages in single page applications",2021-11-05,32,210000,4800,260,155000,73
+"Learn EVERY programming language in 10 mins!","The universal framework that makes coding obsolete",2023-02-28,10,1500000,2100,28000,510000,9
+"Implementing Binary Heaps in C","Priority queues and tree array representations",2020-07-19,48,28000,2700,115,62000,88
+"Python Virtual Environments","Managing project dependencies with venv",2021-02-12,15,185000,4500,220,140000,67
+"Why I fired my entire dev team!","Replacing 50 engineers with one AI script",2023-09-03,14,3200000,18000,95000,1050000,15
+"Advanced TypeScript Generics","Conditional types mapped types and type inference",2022-11-10,42,62000,5900,230,115000,94
+"MongoDB Aggregation Pipeline","Filtering grouping and sorting document data",2020-08-25,35,140000,3300,185,125000,70
+"Build a million dollar startup in 1 HOUR!","Y Combinator secrets revealed",2022-07-22,12,1950000,3800,34000,680000,20
+"Understanding Graphql Resolvers","Fetching data efficiently across multiple database tables",2021-05-06,38,48000,4400,165,88000,91
+"Tailwind CSS Dark Mode","Implementing theme switching in your web app",2022-01-30,18,175000,4100,210,135000,68
+"The ONLY coding tutorial you will ever need!","Watch this and skip university entirely",2023-06-12,8,2600000,5100,52000,850000,17
+"Demystifying Webpack Configuration","Loaders plugins and bundle optimization strategies",2020-10-20,54,35000,3300,140,75000,89
+"Understanding React UseMemo and UseCallback","Optimizing component re-renders with memoization hooks",2021-08-14,35,82000,7500,280,115000,94
+"Code a FAANG level project in 2 MINUTES!","The secret portfolio project that guarantees you get hired",2023-05-22,4,1850000,3100,45000,520000,12
+"JavaScript Promises and Async Await","Handling asynchronous operations gracefully",2020-03-11,28,155000,4200,210,130000,68
+"How I learned to code in ONE DAY!","My impossible journey to becoming a senior software engineer",2022-11-03,8,2100000,4800,62000,880000,15
+"Introduction to CI/CD with GitLab","Automating your software delivery pipelines",2021-09-28,45,52000,4600,175,85000,91
+"Build a Weather App in Python","Using external APIs and the requests library",2020-06-15,22,110000,2900,180,95000,62
+"This new AI writes PERFECT code!","You will never have to type on a keyboard again",2023-10-18,11,3500000,8500,115000,1200000,18
+"Advanced Git Workflows","Rebasing cherry-picking and interactive staging",2022-04-05,55,41000,3900,140,78000,96
+"HTML Canvas API Tutorial","Drawing graphics and animations in the browser",2021-01-25,38,85000,2400,165,110000,65
+"STOP learning React! Do THIS!","The controversial truth about frontend development in 2024",2023-12-08,13,1250000,2200,38000,450000,21
+"System Design: Twitter News Feed","Architecting a high scale content delivery system",2021-07-30,68,95000,8800,320,165000,98
+"CSS Flexbox vs Grid","A comprehensive comparison with real world examples",2020-11-12,32,185000,4500,290,140000,71
+"I built a $1M SaaS in 10 MINUTES!","Watch me code a profitable business from scratch",2022-08-19,6,2800000,6500,85000,950000,9
+"Understanding the Event Loop in Browser","Call stack task queue and microtasks explained",2021-05-04,42,65000,6100,230,120000,95
+"Introduction to Object Oriented Programming","Classes inheritance and polymorphism in C++",2020-02-18,50,220000,5800,410,180000,69
+"Learn Python while you SLEEP!","Subliminal messaging to master coding instantly",2023-01-28,120,850000,1500,25000,310000,5
+"Implementing a Hash Table in Java","Data structures and collision resolution techniques",2022-03-15,48,35000,3200,125,75000,92
+"Vue.js Router Tutorial","Handling navigation in single page applications",2021-10-08,26,92000,2500,180,105000,64
+"Why Computer Science Degrees are SCAMS!","Drop out now and watch this video instead",2023-09-12,14,1950000,5100,55000,720000,17
+"Building a Custom HTTP Server in C","Understanding sockets and the TCP/IP stack",2022-06-25,75,42000,4100,155,88000,97
+"SQL Subqueries and CTEs","Advanced database querying techniques",2021-04-19,35,115000,3400,210,125000,73
+"Code a complete MMO game in 1 HOUR!","Unbelievable game development speedrun",2022-11-30,10,3100000,7500,92000,1150000,14
+"Demystifying React Server Side Rendering","Next.js and data fetching strategies explained",2021-08-05,52,58000,5400,215,95000,93
+"Introduction to Bash Scripting","Automating command line tasks effectively",2020-09-22,28,145000,3500,240,115000,66
+"I created a cryptocurrency in 3 SECONDS!","Become a blockchain billionaire overnight",2023-04-15,5,1650000,2800,48000,580000,11
+"Understanding OAuth 2.0 Flows","Authorization code implicit and client credentials",2022-01-12,45,62000,5800,195,105000,94
+"Python Decorators Explained","Modifying function behavior dynamically",2021-06-03,24,185000,4900,280,155000,70
+"The ONLY tech skill you need for 2024!","Ignore everything else and learn this secret tool",2023-12-20,12,1450000,3100,38000,490000,23
+"Designing a Scalable Microservices Architecture","Domain driven design and event sourcing",2022-05-08,80,75000,7200,260,135000,96
+"JavaScript Fetch API Tutorial","Making network requests and handling responses",2020-10-29,20,240000,5200,350,175000,65
+"Hack any website with HTML!","The ultimate penetration testing shortcut",2021-12-18,7,2200000,4100,65000,850000,8
+"Implementing Redux from Scratch","Understanding state management internals",2021-03-09,55,38000,3600,145,82000,91
+"Introduction to Docker Containers","Images volumes and basic commands",2020-07-14,30,195000,4800,290,145000,67
+"AI will code your ENTIRE app!","Watch this robot build a startup while I sleep",2023-08-25,11,2900000,8200,95000,1050000,16
+"Mastering Regex in JavaScript","Pattern matching and text processing techniques",2022-02-17,42,85000,7800,240,120000,95
+"Svelte Basics Tutorial","Getting started with the disappearing framework",2021-09-06,25,110000,3100,185,105000,63
+"Make $50k a month copying this code!","The ultimate passive income programming trick",2023-02-14,13,1750000,3500,42000,620000,19
+"Understanding Linux Namespaces and Cgroups","The foundation of container technology",2022-07-02,60,45000,4300,165,92000,97
+"PHP and MySQL Crash Course","Building dynamic data driven websites",2020-04-20,45,210000,4500,320,165000,61
+"I built a self-aware AI in 5 MINUTES!","The singularity is here and I coded it",2023-11-09,8,3400000,11000,120000,1250000,6
+"Web Accessibility WCAG Guidelines","Making your applications usable for everyone",2021-05-26,38,32000,3100,120,78000,90
+"React Hooks Context and Reducers","Managing complex state in functional components",2020-12-05,35,165000,4200,250,135000,72
+"Is coding a waste of time?","Why I regret learning software engineering",2023-06-18,15,1850000,6500,58000,750000,24
+"Understanding Graph Data Structures","Adjacency lists matrices and traversal algorithms",2022-09-14,58,48000,4600,180,95000,94
+"Django REST Framework Tutorial","Building robust APIs with Python",2021-02-22,40,135000,3800,220,115000,68
+"Code a virus that hacks your SCHOOL!","Educational purposes only absolutely do not try this",2022-10-10,6,2500000,4200,75000,880000,13
+"Demystifying SSL and TLS Certificates","Cryptography and secure communication protocols",2021-11-20,48,55000,5200,195,105000,96
+"Node.js Express Middleware","Handling requests responses and error boundaries",2020-08-08,28,155000,4100,240,125000,69
+"Become a CEO by learning THIS language!","The fastest path to the c-suite for developers",2023-03-05,12,1150000,2400,31000,420000,20
+"Data Engineering with Apache Spark","Distributed processing and resilient distributed datasets",2022-04-28,65,62000,5900,210,110000,95
